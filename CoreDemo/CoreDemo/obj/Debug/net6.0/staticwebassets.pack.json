@@ -1,0 +1,545 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/obj/Debug/net6.0/scopedcss/projectbundle/CoreDemo.bundle.scp.css",
+      "PackagePath": "staticwebassets/CoreDemo.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/.DS_Store",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/.DS_Store"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/.DS_Store",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/.DS_Store"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/about.html",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/about.html"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/blog1.html",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/blog1.html"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/blog2.html",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/blog2.html"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/blog3.html",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/blog3.html"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/contact.html",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/contact.html"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/css/bootstrap.css",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/css/contact.css",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/css/contact.css"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/css/fontawesome-all.css",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/css/fontawesome-all.css"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/css/jquery.desoslide.css",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/css/jquery.desoslide.css"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/css/single.css",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/css/single.css"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/css/style.css",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/css/style.css"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/1.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/1.jpg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/2.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/2.jpg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/3.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/3.jpg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/4.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/4.jpg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/5.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/5.jpg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/6.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/6.jpg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/7.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/7.jpg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/8.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/8.jpg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/Thumbs.db",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/Thumbs.db"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/b1.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/b1.jpg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/b2.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/b2.jpg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/b3.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/b3.jpg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/b4.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/b4.jpg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/b5.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/b5.jpg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/banner1.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/banner1.jpg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/banner2.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/banner2.jpg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/banner3.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/banner3.jpg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/banner4.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/banner4.jpg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/banner5.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/banner5.jpg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/left.png",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/left.png"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/m1.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/m1.jpg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/m2.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/m2.jpg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/m3.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/m3.jpg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/m4.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/m4.jpg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/right.png",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/right.png"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/t1.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/t1.jpg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/t2.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/t2.jpg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/t3.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/t3.jpg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/t4.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/t4.jpg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/images/top_up.png",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/images/top_up.png"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/index.html",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/index.html"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/js/bootstrap.js",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/js/easing.js",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/js/easing.js"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/js/jquery-2.2.3.min.js",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/js/jquery-2.2.3.min.js"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/js/jquery.desoslide.js",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/js/jquery.desoslide.js"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/js/jquery.flexisel.js",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/js/jquery.flexisel.js"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/js/modernizr.custom.min.js",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/js/modernizr.custom.min.js"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/js/move-top.js",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/js/move-top.js"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/login.html",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/login.html"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/register.html",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/register.html"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/single.html",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/single.html"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/w3layouts-license.txt",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/w3layouts-license.txt"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/webfonts/fa-brands-400.eot",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/webfonts/fa-brands-400.eot"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/webfonts/fa-brands-400.svg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/webfonts/fa-brands-400.svg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/webfonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/webfonts/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/webfonts/fa-brands-400.woff",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/webfonts/fa-brands-400.woff"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/webfonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/webfonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/webfonts/fa-regular-400.eot",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/webfonts/fa-regular-400.eot"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/webfonts/fa-regular-400.svg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/webfonts/fa-regular-400.svg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/webfonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/webfonts/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/webfonts/fa-regular-400.woff",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/webfonts/fa-regular-400.woff"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/webfonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/webfonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/webfonts/fa-solid-900.eot",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/webfonts/fa-solid-900.eot"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/webfonts/fa-solid-900.svg",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/webfonts/fa-solid-900.svg"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/webfonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/webfonts/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/webfonts/fa-solid-900.woff",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/webfonts/fa-solid-900.woff"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/CoreBlogTema-main/web/webfonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/CoreBlogTema-main/web/webfonts/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/.DS_Store",
+      "PackagePath": "staticwebassets/lib/.DS_Store"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/.DS_Store",
+      "PackagePath": "staticwebassets/lib/bootstrap/.DS_Store"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/.DS_Store",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/.DS_Store"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/hatice/Desktop/Udemy Courses/Core 5.0 Proje/CoreDemo/CoreDemo/CoreDemo/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.CoreDemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.CoreDemo.props",
+      "PackagePath": "build\\CoreDemo.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.CoreDemo.props",
+      "PackagePath": "buildMultiTargeting\\CoreDemo.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.CoreDemo.props",
+      "PackagePath": "buildTransitive\\CoreDemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

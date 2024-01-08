@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D50AF8BF-DC77-4783-81EA-20F2FB58A8FD}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CoreDemo PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoreDemo/Controllers/RegisterController.cs">
+    <Files>
+      <File FileName="CoreDemo/Views/Register/Index.cshtml" Line="1" Column="1" />
+      <File FileName="CoreDemo/Controllers/RegisterController.cs" Line="26" Column="55" />
+      <File FileName="BusinessLayer/Abstract/IUserService.cs" Line="1" Column="1" />
+      <File FileName="BusinessLayer/Abstract/ITravelPlanService.cs" Line="1" Column="1" />
+      <File FileName="BusinessLayer/Abstract/Concrete (copy)/UserManager.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CoreDemo" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
